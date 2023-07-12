@@ -100,7 +100,7 @@ theme: Butterfly
 deploy:
   type: 'git'
   repository: 'github.com:siYuanJun/siyuanjun.github.io.git'
-  branch: main
+  branch: 'main'
 
 # 二次元动画人物
 live2d:
